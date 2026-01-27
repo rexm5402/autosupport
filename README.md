@@ -284,9 +284,7 @@ autosupport/
 └── scripts/                     # Utility scripts
 ```
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -296,9 +294,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - Aryan Murugesh
 
-Project Link: [https://github.com/yourusername/autosupport](https://github.com/yourusername/autosupport)
+Project Link: [https://github.com/yourusername/autosupport](https://github.com/rexm5402/autosupport)
 
 ---
 
