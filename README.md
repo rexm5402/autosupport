@@ -5,11 +5,11 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-009688.svg)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB.svg)](https://reactjs.org/)
 
-## 🚀 Overview
+##  Overview
 
 AutoSupport is an intelligent customer support system that automatically classifies, prioritizes, and routes support tickets using machine learning. It features smart response suggestions, real-time analytics, and agent performance tracking.
 
-### ✨ Key Features
+###  Key Features
 
 - **Automatic Ticket Classification**: Multi-class ML model classifies tickets into categories (Billing, Technical, Account, etc.)
 - **Sentiment Analysis**: Detects customer emotion and urgency
@@ -19,7 +19,7 @@ AutoSupport is an intelligent customer support system that automatically classif
 - **Microservices Architecture**: Scalable, containerized services
 - **MLOps Pipeline**: Model versioning, monitoring, and retraining capabilities
 
-## 🏗️ Architecture
+## 🏗️Architecture
 
 ```
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐
@@ -40,7 +40,7 @@ AutoSupport is an intelligent customer support system that automatically classif
                     └──────────────┘
 ```
 
-## 📋 Tech Stack
+## Tech Stack
 
 ### Backend
 - **Framework**: FastAPI
@@ -69,7 +69,7 @@ AutoSupport is an intelligent customer support system that automatically classif
 - **CI/CD**: GitHub Actions
 - **Deployment**: Railway/Render
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -152,7 +152,7 @@ Place your dataset in `data/tickets.csv` with columns:
 - `category`: Category label
 - `priority`: Priority level (optional)
 
-## 🧪 Training Models
+##  Training Models
 
 ```bash
 cd backend
@@ -165,7 +165,7 @@ mlflow ui
 # Navigate to http://localhost:5000
 ```
 
-## 📖 API Documentation
+##  API Documentation
 
 Once the backend is running, visit:
 - Swagger UI: http://localhost:8000/docs
@@ -183,7 +183,7 @@ GET    /api/v1/analytics            - Get analytics data
 POST   /api/v1/suggest-response     - Get AI response suggestion
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 Key configuration options in `.env`:
 
@@ -204,7 +204,7 @@ API_V1_PREFIX=/api/v1
 SECRET_KEY=your-secret-key-here
 ```
 
-## 📈 Monitoring
+##  Monitoring
 
 The project includes built-in monitoring:
 
@@ -213,7 +213,7 @@ The project includes built-in monitoring:
   - Default credentials: admin/admin
 - **MLflow**: ML experiment tracking (http://localhost:5000)
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Backend tests
@@ -225,7 +225,7 @@ cd frontend
 npm test
 ```
 
-## 📦 Deployment
+##  Deployment
 
 ### Using Docker
 
@@ -247,7 +247,7 @@ The project is configured for easy deployment to:
 
 See `docs/deployment.md` for detailed instructions.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -257,7 +257,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 Project Structure
+##  Project Structure
 
 ```
 autosupport/
@@ -286,13 +286,9 @@ autosupport/
 
 
 
-## 🙏 Acknowledgments
 
-- HuggingFace for transformer models
-- FastAPI for the amazing web framework
-- The open-source community
 
-## 📧 Contact
+## Contact
 
 Your Name - Aryan Murugesh
 
