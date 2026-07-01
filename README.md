@@ -7,9 +7,7 @@
 
 ## Live Demo
 
-- **Frontend**: [https://autosupport.vercel.app](https://autosupport.vercel.app)
-- **Backend API**: [https://autosupport.onrender.com](https://autosupport.onrender.com)
-- **API Docs**: [https://autosupport.onrender.com/docs](https://autosupport.onrender.com/docs)
+**[https://autosupport-42f43k935-aryan-murugeshs-projects.vercel.app](https://autosupport-42f43k935-aryan-murugeshs-projects.vercel.app)**
 
 ## Overview
 
